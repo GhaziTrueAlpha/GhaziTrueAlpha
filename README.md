@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-* 🏢 Founder @ **Airominds**
+* 🏢 Founder @ **Alpha Insiders**
 * 🤖 Creator of **STEAM DOST** – AI-powered humanoid assistant
 * 🛠️ Building **offline AI systems** using Raspberry Pi
 * 🌐 Working on **AI WebRTC Voice Agents**
@@ -42,7 +42,7 @@
 ## 📈 Goals
 
 * 🇮🇳 Build India’s best **AI Robotics Ecosystem**
-* 🌍 Scale **Airominds** globally
+* 🌍 Scale **Alpha Insiderss** globally
 * 💡 Make AI assistants **offline, affordable & powerful**
 
 ---
